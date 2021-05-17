@@ -173,7 +173,7 @@ a {
 }
 a:hover {
   color: #CACAEF;
-  font-style: italic;
+  /* font-style: italic; */
   text-decoration: none;
 }
 
